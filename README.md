@@ -4,4 +4,4 @@ Using Next JS and Tailwind CSS
 
 ## Get it here
 
-[view app now]('')
+[view app now]('https://nogozo-home-page-clone.vercel.app/')

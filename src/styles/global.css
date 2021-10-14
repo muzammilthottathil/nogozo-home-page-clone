@@ -1,0 +1,28 @@
+html {
+  scrollbar-width: 0;
+}
+
+html::-webkit-scrollbar {
+  width: 0;
+}
+
+/* slider */
+
+.slick-dots li {
+  margin: 0 !important;
+}
+
+.slick-dots li button::before {
+  color: #2f76a9 !important;
+  font-size: 0.6rem !important;
+}
+
+/* horizontal scroll */
+
+.horizontal_scroll {
+  scroll-behavior: smooth;
+  scrollbar-width: 0;
+}
+.horizontal_scroll::-webkit-scrollbar {
+  width: 0;
+}
